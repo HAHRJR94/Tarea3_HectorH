@@ -1,0 +1,14 @@
+{
+  "name": "tareaprgiv",
+  "version": "1.0.0",
+  "description": "Consumir_Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hector_Henriquez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
